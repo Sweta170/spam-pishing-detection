@@ -1,0 +1,4 @@
+Model,Precision,Recall,F1-Score,Accuracy,FPR,TN,FP,FN,TP
+Multinomial Naive Bayes,1.0,0.8015,0.8898,0.9749,0.0,903,0,26,105
+Logistic Regression (Balanced),0.8855,0.8855,0.8855,0.971,0.0166,888,15,15,116
+Random Forest,0.9826,0.8626,0.9187,0.9807,0.0022,901,2,18,113
